@@ -4,7 +4,7 @@ from typing import List, Optional, Dict
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Combine Excel Tool", page_icon="📑", layout="wide")
+st.set_page_config(page_title="Combine Excel File", page_icon="📑", layout="wide")
 st.image("combineexcelfile.jpg")
 st.title("📑 Combine Excel File ")
 st.caption("Gộp dữ liệu Excel nhanh – chọn chế độ, tải lên, và tải về kết quả.")
