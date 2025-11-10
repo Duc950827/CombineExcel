@@ -6,3 +6,4 @@ statsmodels
 prophet
 reportlab
 python-pptx
+openpyxl
